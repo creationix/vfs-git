@@ -1,0 +1,15 @@
+{
+  "name": "vfs-git",
+  "version": "0.0.0",
+  "description": "A vfs backend for reading bare git repos",
+  "main": "git.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creationix/vfs-git"
+  },
+  "author": "Tim Caswell",
+  "license": "MIT"
+}
